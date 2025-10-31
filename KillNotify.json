@@ -1,7 +1,7 @@
 {
-    "12910": { "id": 1, "name": "Triệu Vân Thần Tài" },
-    "13210": { "id": 2, "name": "Hayate Tu Di Thánh Đế" },
-    "16710": { "id": 3, "name": "Ngộ Không Tân Niên Võ Thần" },
+    "12910": { "id": 1, "name": "[Triệu Vân] Thần Tài" },
+    "13210": { "id": 2, "name": "[Hayate] Tu Di Thánh Đế" },
+    "16710": { "id": 3, "name": "[Ngộ Không] Tân Niên Võ Thần" },
     "15212": { "id": 4, "name": "Điêu Thuyền Eternal Sailor Moon" },
     "11812": { "id": 5, "name": "Alice Eternal Sailor Chibi Moon" },
     "19906": { "id": 6, "name": "Eland'orr Tuxedo" },
@@ -41,7 +41,7 @@
     "15009": { "id": 45, "name": "Nakroth Thứ Nguyên Vệ Thần" },
     "19614": { "id": 46, "name": "Elsu Chuyến Tàu Mơ Ước" },
     "19908": { "id": 47, "name": "Eland'orr Chuyến Tàu Mơ Ước" },
-    "14108": { "id": 49, "name": "[Lauriel] Thứ Nguyên Vệ Thần" },
+    "14111": { "id": 49, "name": "[Lauriel] Thứ Nguyên Vệ Thần" },
     "53808": { "id": 50, "name": "[Iggy] Rimuru Tempet" },
     "52808": { "id": 51, "name": "[Qi] Milim Nava" }
 }
